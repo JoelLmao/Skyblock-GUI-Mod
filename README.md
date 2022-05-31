@@ -6,10 +6,15 @@ Kmod-0.5.5.jar ->
 
 Steps:
 (1) Open someone's Profile/Player Viewer (Right Click)
+
 (2) Save the GUI using the mod
+
 (3) Close the Profile/Player Viewer and load the GUI back up
+
 (4) You can also change the Keybind to open the GUI in the settings 
+
 (5) Drag anything you want into your inventory
+
 (6) Make shure to not overdo it!
 
 Potential Fixes:
