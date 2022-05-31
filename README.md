@@ -1,2 +1,3 @@
 # Skyblock-GUI-Mod
-Hypixel Skyblock G
+Hypixel Skyblock GUI Method Dupe Mod
+
