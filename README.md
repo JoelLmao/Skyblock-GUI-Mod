@@ -1,8 +1,12 @@
 # Skyblock-GUI-Mod
 Hypixel Skyblock GUI Method Dupe Mod
 
-Kmod-0.5.5.jar ->
-[Kmod-0.5.5.zip](https://github.com/fatql19/Skyblock-GUI-Mod/files/8807446/Kmod-0.5.5.zip) (unpatched - still working - Last tested on 31.05.2022)
+Kmod-0.5.6.jar ->
+[Kmod-0.5.5.zip](https://github.com/fatql19/Skyblock-GUI-Mod/files/8807446/Kmod-0.5.5.zip) (unpatched - still working - Last tested on 23.07.2022 - only works in dungeon hub for now)
+
+!!!
+DO NOT TRADE OR AUCTION ANY ITEM YOU DUPE
+!!!
 
 Steps:
 
