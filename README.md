@@ -32,7 +32,7 @@ Steps:
 
 (6) Make shure to not overdo it!
 
-Potential Fixes:
+Potential Fixes:.
 If your Minecraft crashes or the Mod doesn't show up, take every other mod out of your mods folder except this Mod
 
 Minor Issue is that some mods have the option to see where items originate from which in this case is the GUI but you shouldn't worry about that because it's not really
