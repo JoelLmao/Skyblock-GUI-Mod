@@ -38,3 +38,4 @@ If your Minecraft crashes or the Mod doesn't show up, take every other mod out o
 Minor Issue is that some mods have the option to see where items originate from which in this case is the GUI but you shouldn't worry about that because it's not really
 noticable but you should have some legit items in your Inventory.
 I also don't recommend you selling your duped stuff on the AH because of the reason above!
+owner please add key binds or tell us how we save the gui please
